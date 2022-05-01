@@ -1,6 +1,6 @@
 # Control Motor Driver
 ![alt text](./mcd.png)
-This circuit was implemented in <a href="https://www.tinkercad.com/things/0TWCC0VV2vM-control-motor-driver-arduino/editel"> TinkerCAD</a>.
+This circuit was implemented in <a href="https://www.tinkercad.com/things/0TWCC0VV2vM-control-motor-driver-arduino/editel?sharecode=2wJG9QLaSHSWUnEm4111AmiwqUeFnLTGl4dGId418WQ"> TinkerCAD</a>.
 
 ### Materials needed are:
 -Arduino Uno R3
@@ -48,5 +48,5 @@ void loop(){
 }
 ```
 ### Link to my TinkerCAD implementation:
-<a href="https://www.tinkercad.com/things/0TWCC0VV2vM-control-motor-driver-arduino/editel">TinkerCAD</a>.
+<a href="https://www.tinkercad.com/things/0TWCC0VV2vM-control-motor-driver-arduino/editel?sharecode=2wJG9QLaSHSWUnEm4111AmiwqUeFnLTGl4dGId418WQ">TinkerCAD</a>.
 
