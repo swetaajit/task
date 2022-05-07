@@ -18,6 +18,6 @@ PISO(Parallel in Series Out).
 
 ![alt text](./siso/siso.png)
 ![alt text](./siso/sisocomponent1.png)
-![alt text](./siso/SISO SHIFT REGISTER.png)
+![alt text](./siso/tinkercad.png)
 
 
