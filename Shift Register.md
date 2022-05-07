@@ -15,6 +15,7 @@ PIPO(Parallel in Parallel Out ),
 
 PISO(Parallel in Series Out).
 ### Serial In Serial Out(SISO)
+The SISO shift register is one of the simplest of the four configurations as it has only three connections, the serial input (SI) which determines what enters the left hand flip-flop, the serial output (SO) which is taken from the output of the right hand flip-flop and the sequencing clock signal (Clk).
 
 ![alt text](./siso/siso.png)
 ![alt text](./siso/sisocomponent1.png)
