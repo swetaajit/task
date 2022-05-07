@@ -7,5 +7,5 @@ There are basically four kinds of shift register-SISO(Serial In Serial Out),SIPO
 ### Serial In Serial Out(SISO)
 
 ![alt text](./siso/siso.png)
-![alt text](./siso/sisocomponents.png)
+![alt text](./siso/sisocomp.png)
 
