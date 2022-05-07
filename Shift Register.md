@@ -6,4 +6,6 @@ A shift register is a type of digital circuit using a cascade of flip-flops wher
 There are basically four kinds of shift register-SISO(Serial In Serial Out),SIPO(Serial In Parallel Out),PIPO(Parallel in Parallel Out ),PISO(Parallel in Series Out).
 ### Serial In Serial Out(SISO)
 
-![alt text](./SISO SHIFT REGISTER.png)
+![alt text](./siso/siso.png)
+![alt text](./siso/sisocomponents.png)
+
