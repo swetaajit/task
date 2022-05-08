@@ -22,17 +22,21 @@ The SISO shift register is one of the simplest of the four configurations as it 
 ![alt text](./siso/tinkercad.png)
 
 ### Serial In Parallel Out(SIPO)
+In Serial In Parallel Out (SIPO) shift registers, the data is stored into the register serially while it is retrieved from it in parallel-fashion.
 
 ![alt text](./SIPO/sipo.png)
 ![alt text](./SIPO/sipocomponents.png)
 ![alt text](./SIPO/SIPO%20SHIFT%20REGISTER.png)
 
 ### Parallel In  Parallel Out
+
+Parallel In Parallel Out (PIPO) shift registers are the type of storage devices in which both data loading as well as data retrieval processes occur in parallel mode.
 ![alt text](./PIPO/pipo.png)
 ![alt text](./PIPO/pipocomponent.png)
 ![alt text](./PIPO/PIPO%20SHIFT%20REGISTER.png)
 
 ### Parallel in Serial Out
+The shift register, which allows parallel input (data is given separately to each flip flop and in a simultaneous manner) and produces a serial output is known as Parallel-In Serial-Out shift register.
 ![alt text](./PISO/piso.png)
 ![alt text](./PISO/pisocomponents.png)
 ![alt text](./PISO/PISO.png)
