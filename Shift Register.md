@@ -21,4 +21,8 @@ The SISO shift register is one of the simplest of the four configurations as it 
 ![alt text](./siso/sisocomponent1.png)
 ![alt text](./siso/tinkercad.png)
 
+### Serial In Parallel Out(SIPO)
+
+!![alt text](./siso/siso.png)
+
 
