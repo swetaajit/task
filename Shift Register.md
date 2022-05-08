@@ -1,4 +1,4 @@
-### Shift Registers
+### SHIFT REGISTER
 
 
 ### About Shift Register:
