@@ -23,6 +23,25 @@ The SISO shift register is one of the simplest of the four configurations as it 
 
 ### Serial In Parallel Out(SIPO)
 
-!![alt text](./siso/siso.png)
+![alt text](./SIPO/sipo.png)
+![alt text](./SIPO/sipocomponents.png)
+![alt text](./SIPO/SIPO%20SHIFT%20REGISTER.png)
+
+### Parallel In  Parallel Out
+![alt text](./PIPO/pipo.png)
+![alt text](./PIPO/pipocomponent.png)
+![alt text](./PIPO/PIPO%20SHIFT%20REGISTER.png)
+
+### Parallel in Serial Out
+![alt text](./PISO/piso.png)
+![alt text](./PISO/pisocomponents.png)
+![alt text](./PISO/PISO.png)
+
+
+
+
+
+
+
 
 
