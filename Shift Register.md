@@ -14,7 +14,7 @@ SIPO(Serial In Parallel Out),
 PIPO(Parallel in Parallel Out ),
 
 PISO(Parallel in Series Out).
-### Serial In Serial Out(SISO)
+### Serial In Serial Out(SISO):
 
 The SISO shift register is one of the simplest of the four configurations as it has only three connections, the serial input (SI) which determines what enters the left hand flip-flop, the serial output (SO) which is taken from the output of the right hand flip-flop and the sequencing clock signal (Clk).
 
@@ -23,7 +23,7 @@ The SISO shift register is one of the simplest of the four configurations as it 
 ![alt text](./siso/tinkercad.png)
 <a href="https://www.tinkercad.com/things/8yaRpqmOOsN-siso-shift-register/editel?sharecode=WN-gML5JJaRJ0daAXs9COjbNC5Si1LZtDquynghaLKg">TinkerCAD</a>.
 
-### Serial In Parallel Out(SIPO)
+### Serial In Parallel Out(SIPO):
 
 In Serial In Parallel Out (SIPO) shift registers, the data is stored into the register serially while it is retrieved from it in parallel-fashion.
 
@@ -32,7 +32,7 @@ In Serial In Parallel Out (SIPO) shift registers, the data is stored into the re
 ![alt text](./SIPO/SIPO%20SHIFT%20REGISTER.png)
 <a href="https://www.tinkercad.com/things/7i8ZuN4J1CX-sipo-shift-register/editel?sharecode=lvKs4dsC_rzlaAS2RA3iVzjHh8fnW36RHzlawBnWg9U">TinkerCAD</a>.
 
-### Parallel In  Parallel Out(PIPO)
+### Parallel In  Parallel Out(PIPO):
 
 Parallel In Parallel Out (PIPO) shift registers are the type of storage devices in which both data loading as well as data retrieval processes occur in parallel mode.
 
@@ -41,7 +41,7 @@ Parallel In Parallel Out (PIPO) shift registers are the type of storage devices 
 ![alt text](./PIPO/PIPO%20SHIFT%20REGISTER.png)
 <a href="https://www.tinkercad.com/things/7kjGcoKtgVG-pipo-shift-register/editel?sharecode=LsjWZRF2BHl9sI0PL3h_NrK7PX97HKgca772kbSi_6c">TinkerCAD</a>.
 
-### Parallel in Serial Out(PISO)
+### Parallel in Serial Out(PISO):
 
 The shift register, which allows parallel input (data is given separately to each flip flop and in a simultaneous manner) and produces a serial output is known as Parallel-In Serial-Out shift register.
 
